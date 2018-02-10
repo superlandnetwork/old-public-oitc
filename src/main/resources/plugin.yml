@@ -1,0 +1,11 @@
+name: OITC
+version: 2.0
+author: ursinn
+main: de.superlandnetwork.oitc.Main
+depend: [API]
+loadbefore: [API]
+commands:
+   stats:
+   forcemap:
+   start:
+   nick:
